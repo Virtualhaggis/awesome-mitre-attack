@@ -98,6 +98,7 @@
 - [CyberMenace](https://github.com/PM0ney/CyberMenace) - A one stop shop hunting app in Splunk that can ingest Zeek, Suricata, Sysmon, and Windows event data to find malicious indicators of compromise relating to the MITRE ATT&CK Matrix.
 - [Wayfinder](https://github.com/egaus/wayfinder) - Artificial Intelligence Agent to extract threat intelligence TTPs from feeds of malicious and benign event sources and automate threat hunting activities.
 - [pyattck](https://github.com/swimlane/pyattck) - A python package to interact with the Mitre ATT&CK Framework. You can find documentation [here](https://pyattck.readthedocs.io/en/latest/)
+- [Clankerusecase](https://clankerusecase.com) - Threat-led library of 7,800+ ATT&CK-mapped detections in Defender/Sentinel KQL, Sigma, Splunk SPL, Datadog, Falcon & CloudWatch, generated from live threat-intel and schema-validated.
 
 ------
 
